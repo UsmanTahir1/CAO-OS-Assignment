@@ -1,6 +1,6 @@
 # CAO-OS-Assignment
 ## This is Output
 
-![] (images/NUST LOGO.jpeg)
+![](images/NUST%20GO.jpeg)
   
   
